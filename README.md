@@ -9,7 +9,7 @@ Cloud Travel의 Client는 IOS 네이티브 언어인 SwiftUI로 개발되었습�
 Apple 기기에서 실행되는 App은 Apple App Store에서 심사를 받지 않고는 원칙적으로 아무기기에서나 설치할 수 없습니다. <br>
 그리하여 사전에 테스트할 기기의 UDiD를 App개발자가 배포용 인증서와 함께 배포프로필에 포함시켜 App을 빌드하여 배포해야만 테스터(심사위원)가 App을 설치 후 사용해 볼 수 있습니다.<br>
 사전에 등록된 기기에서만 App을 실행시킬 수 있다는 뜻 입니다.<br> 
-><b>UDiD란<b><br>
+><b>UDiD란</b><br>
 모든 iPhone, iPod, iPad 및 ATV에는 해당 장치에 고유 한 숫자와 문자로 구성된 40 자 길이의 고유 식별자 (UDiD)가 있습니다. 기기 식별자입니다.
 
 ## App 테스트를 위한 상호 과정
